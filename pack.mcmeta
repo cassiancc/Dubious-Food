@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 33,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 33
+    },
+    "description": "Eating food should be unpleasant!"
+  }
+}
