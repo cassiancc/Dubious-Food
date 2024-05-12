@@ -9,4 +9,4 @@ Minecraft user! Do you enjoy eating food? Yes? Wrong! Try **Dubious Food**, the 
 A full list can be found in the [Gallery](https://modrinth.com/resourcepack/dubious-food/gallery).
 
 ## Credits
-This resource pack is a port of the names present from the [Food Restrictions](https://minecraft.wiki/w/Java_Edition_23w13a_or_b#All_food_restrictions) present in the 23w13a_or_b resource pack. All names present were originally come up with by Mojang for this snapshot.
+This resource pack is a port of the names present from the [Food Restrictions](https://minecraft.wiki/w/Java_Edition_23w13a_or_b#All_food_restrictions) present in the 23w13a_or_b April Fools update. All names present were originally come up with by Mojang for this snapshot.
